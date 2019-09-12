@@ -23,7 +23,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [Attention is all you need](https://arxiv.org/abs/1706.03762)
 
 ### Geometric deep learning
-* [Going list of resources](http://geometricdeeplearning.com/)
+* [Good list of resources](http://geometricdeeplearning.com/)
 
 ### Probabilistic programming
 * [An introduction to probabilistic programming](https://arxiv.org/abs/1809.10756)
