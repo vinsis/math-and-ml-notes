@@ -1,5 +1,15 @@
 Links to some important research papers or links. I plan to add notes as I go through each topic one by one.
 
+### Disentangled representations
+* [Quick overview by Google](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
+* [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1812.02833)
+* [InfoGAN-CR: Disentangling Generative Adversarial Networks with Contrastive Regularizers](https://arxiv.org/abs/1906.06034)
+
+__Contrastive Coding__:
+* [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
+* [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
+* Google disspelling a lot of misconceptions about disentangled representations: [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
+
 ### Memorization in neural networks
 * [Blog post by BAIR](https://bair.berkeley.edu/blog/2019/08/13/memorization/)
 * [Identity Crisis: Paper](https://arxiv.org/abs/1902.04698)
