@@ -31,6 +31,7 @@ __Contrastive Coding__:
 
 ### Transformers
 * [Attention is all you need](https://arxiv.org/abs/1706.03762)
+* [Links to papers and code on various transformers by HuggingFace](https://github.com/huggingface/transformers)
 
 ### Geometric deep learning
 * [Good list of resources](http://geometricdeeplearning.com/)
