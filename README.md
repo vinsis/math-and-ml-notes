@@ -15,8 +15,8 @@ __Contrastive Coding__:
 * [Identity Crisis: Paper](https://arxiv.org/abs/1902.04698)
 
 ### Information theory based (unsupervised) learning
-* [Invariant Information Clustering](https://arxiv.org/abs/1807.06653)
-* [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062)
+* [Invariant Information Clustering](https://arxiv.org/abs/1807.06653) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/iic.md)
+* [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/mine.md)
 * [Deep Infomax](https://arxiv.org/abs/1808.06670)
 * [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
 * How Google invalidated most of the above research: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625)
