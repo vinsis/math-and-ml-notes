@@ -56,6 +56,7 @@ def IICv2(z, zt, C=10):
 > __Image clustering.__ IIC requires a source of paired samples (x,x′), which are often unavailable in unsupervised image clustering applications. In this case, we propose to use generated image pairs, consisting of image x and its randomly perturbed version x′=gx. The objective eq. (1) can thus be written as:maxΦ I(Φ(x),Φ(gx))
 
 
+* [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062)
 * [Deep Infomax](https://arxiv.org/abs/1808.06670)
 * [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
 * How Google invalidated most of the above research: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625)
