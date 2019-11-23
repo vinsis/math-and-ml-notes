@@ -1,5 +1,13 @@
 Links to some important research papers or links. I plan to add notes as I go through each topic one by one.
 
+
+## Information theory based (unsupervised) learning
+* [Invariant Information Clustering](https://arxiv.org/abs/1807.06653) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/iic.md)
+* [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/mine.md)
+* [Deep Infomax](https://arxiv.org/abs/1808.06670)
+* [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
+* How Google invalidated most of the above research: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625)
+
 ### Disentangled representations
 * [Quick overview by Google](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
 * [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1812.02833)
@@ -13,13 +21,6 @@ __Contrastive Coding__:
 ### Memorization in neural networks
 * [Blog post by BAIR](https://bair.berkeley.edu/blog/2019/08/13/memorization/)
 * [Identity Crisis: Paper](https://arxiv.org/abs/1902.04698)
-
-### Information theory based (unsupervised) learning
-* [Invariant Information Clustering](https://arxiv.org/abs/1807.06653) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/iic.md)
-* [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/mine.md)
-* [Deep Infomax](https://arxiv.org/abs/1808.06670)
-* [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
-* How Google invalidated most of the above research: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625)
 
 ### Links between ResNets and ODEs
 * [Beyond Finite Layer Neural Networks](https://arxiv.org/pdf/1710.10121.pdf)
@@ -36,6 +37,7 @@ __Contrastive Coding__:
 
 ### Geometric deep learning
 * [Good list of resources](http://geometricdeeplearning.com/)
+* [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/abs/1506.05163)
 
 ### Probabilistic programming
 * [An introduction to probabilistic programming](https://arxiv.org/abs/1809.10756)
