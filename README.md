@@ -44,5 +44,6 @@ __Contrastive Coding__:
 
 ### Miscellaneous
 * [Lottery ticket hypothesis](http://news.mit.edu/2019/smarter-training-neural-networks-0506)
+* [Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134)
 * [Zero-shot knowledge transfer](https://arxiv.org/abs/1905.09768)
 * [SpecNet](https://arxiv.org/abs/1905.10915)
