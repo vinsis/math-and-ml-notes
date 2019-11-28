@@ -5,7 +5,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [Invariant Information Clustering](https://arxiv.org/abs/1807.06653) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/iic.md)
 * [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/mine.md)
 * [Deep Infomax](https://arxiv.org/abs/1808.06670) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/deepinfomax.md)
-* [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
+* [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/amdim.md)
 * How Google invalidated most of the above research: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625)
 
 ### Disentangled representations
@@ -46,4 +46,3 @@ __Contrastive Coding__:
 * [Lottery ticket hypothesis](http://news.mit.edu/2019/smarter-training-neural-networks-0506)
 * [Zero-shot knowledge transfer](https://arxiv.org/abs/1905.09768)
 * [SpecNet](https://arxiv.org/abs/1905.10915)
-
