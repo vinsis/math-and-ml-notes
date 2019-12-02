@@ -2,14 +2,22 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 
 ## Information theory based (unsupervised) learning
-* [Invariant Information Clustering](https://arxiv.org/abs/1807.06653) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/iic.md)
-* [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/mine.md)
-* [Deep Infomax](https://arxiv.org/abs/1808.06670) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/deepinfomax.md)
-* [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/amdim.md)
-* How Google decoupled MI maximization and representation learning: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/on_mi_maximization.md)
+* [Invariant Information Clustering](https://arxiv.org/abs/1807.06653)
+   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/iic.md)
+* [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062)
+  * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/mine.md)
+* [Deep Infomax](https://arxiv.org/abs/1808.06670)
+  * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/deepinfomax.md)
+* [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)
+  * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/amdim.md)
+* How Google decoupled MI maximization and representation learning: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625)
+  * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/on_mi_maximization.md)
 
-### Disentangled representations
+## Disentangled representations
 * [Quick overview by Google](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
+  *  [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/unsupervised_disentanglement.md)
+* [β-VAE, pdf](https://openreview.net/pdf?id=Sy2fzU9gl)
+* [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599)
 * [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1812.02833)
 * [InfoGAN-CR: Disentangling Generative Adversarial Networks with Contrastive Regularizers](https://arxiv.org/abs/1906.06034)
 
