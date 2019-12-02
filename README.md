@@ -6,7 +6,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/mine.md)
 * [Deep Infomax](https://arxiv.org/abs/1808.06670) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/deepinfomax.md)
 * [Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/amdim.md)
-* How Google invalidated most of the above research: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625)
+* How Google invalidated most of the above research: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625) | [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/on_mi_maximization.md)
 
 ### Disentangled representations
 * [Quick overview by Google](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
