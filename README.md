@@ -33,6 +33,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 ## Automatic differentiation
 * [Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767)
 * [Reverse mode automatic differentiation](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation)
+* [A new trick for calculating Jacobian vector products](https://j-towns.github.io/2017/06/12/A-new-trick.html)
 
 ---
 
