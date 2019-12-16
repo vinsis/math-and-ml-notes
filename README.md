@@ -30,6 +30,12 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
+## Automatic differentiation
+* [Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767)
+* [Reverse mode automatic differentiation](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation)
+
+---
+
 ## NNs and ODEs
 * [Beyond Finite Layer Neural Networks](https://arxiv.org/pdf/1710.10121.pdf)
 * [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
