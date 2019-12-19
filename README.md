@@ -23,9 +23,12 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1812.02833)
 * [InfoGAN-CR: Disentangling Generative Adversarial Networks with Contrastive Regularizers](https://arxiv.org/abs/1906.06034)
 
-### Contrastive Coding
+---
+
+## Contrastive Coding
 * [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 * [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
+* [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 * Google disspelling a lot of misconceptions about disentangled representations: [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
 
 ---
