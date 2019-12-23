@@ -1,7 +1,7 @@
 Links to some important research papers or links. I plan to add notes as I go through each topic one by one.
 
 
-## Information theory based (unsupervised) learning
+## 1. Information theory based (unsupervised) learning
 * [x] [Invariant Information Clustering](https://arxiv.org/abs/1807.06653)
    * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/iic.md)
 * [x] [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062)
@@ -15,7 +15,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## Disentangled representations
+## 2. Disentangled representations
 * [x] [Quick overview by Google](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
   *  [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/unsupervised_disentanglement.md)
 * [β-VAE, pdf](https://openreview.net/pdf?id=Sy2fzU9gl)
@@ -25,7 +25,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## Contrastive Coding
+## 3. Contrastive Coding
 * [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 * [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
@@ -33,7 +33,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## Automatic differentiation
+## 4. Automatic differentiation
 * [x] [Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767)
 * [x] [Automatic Reverse-Mode Differentiation: Lecture Notes](http://www.cs.cmu.edu/~wcohen/10-605/notes/autodiff.pdf)
   * [__Annotated pdf__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/autodiff.pdf)
@@ -42,14 +42,14 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## NNs and ODEs
+## 5. NNs and ODEs
 * [Beyond Finite Layer Neural Networks](https://arxiv.org/pdf/1710.10121.pdf)
 * [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
 * [Invertible ResNets](https://arxiv.org/pdf/1811.00995.pdf)
 
 ---
 
-## Miscellaneous
+## 6. Miscellaneous
 ### Memorization in neural networks
 * [Blog post by BAIR](https://bair.berkeley.edu/blog/2019/08/13/memorization/)
 * [Identity Crisis: Paper](https://arxiv.org/abs/1902.04698)
@@ -75,7 +75,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## Theory of neural networks
+## 7. Theory of neural networks
 ### Lottery tickets
 * [Lottery ticket hypothesis](http://news.mit.edu/2019/smarter-training-neural-networks-0506)
 * [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/abs/1905.01067)
