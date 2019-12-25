@@ -72,6 +72,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 ### Others
 * [Zero-shot knowledge transfer](https://arxiv.org/abs/1905.09768)
 * [SpecNet](https://arxiv.org/abs/1905.10915)
+* [Deep Learning & Symbolic Mathematics](https://arxiv.org/abs/1912.01412)
 
 ---
 
