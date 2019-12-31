@@ -37,7 +37,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [x] [Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767)
 * [x] [Automatic Reverse-Mode Differentiation: Lecture Notes](http://www.cs.cmu.edu/~wcohen/10-605/notes/autodiff.pdf)
   * [__Annotated pdf__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/autodiff.pdf)
-* [Reverse mode automatic differentiation](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation)
+* [x] [Reverse mode automatic differentiation](https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation)
 * [A new trick for calculating Jacobian vector products](https://j-towns.github.io/2017/06/12/A-new-trick.html)
 
 ---
