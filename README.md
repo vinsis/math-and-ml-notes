@@ -45,6 +45,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 ## 5. NNs and ODEs
 * [Beyond Finite Layer Neural Networks](https://arxiv.org/pdf/1710.10121.pdf)
 * [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
+* [Augmented Neural ODEs](https://arxiv.org/abs/1904.01681)
 * [Invertible ResNets](https://arxiv.org/pdf/1811.00995.pdf)
 
 ---
