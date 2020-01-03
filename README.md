@@ -60,6 +60,9 @@ Links to some important research papers or links. I plan to add notes as I go th
 ### Probabilistic Programming
 * [An introduction to probabilistic programming](https://arxiv.org/abs/1809.10756)
 
+### Online Learning
+* [A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
+
 ### Normalizing Flows
 * [Detailed hands-on introduction](https://github.com/acids-ircam/pytorch_flows)
 * [PyTorch implementations of density estimation algorithms](https://github.com/kamenbliznashki/normalizing_flows)
