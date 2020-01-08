@@ -52,13 +52,18 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## 6. Miscellaneous
+## 6. Probabilistic Programming
+* [Probabilistic models of cognition](http://probmods.org/)
+* [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org)
+* [Composition in Probabilistic Language Understanding](http://gscontras.github.io/ESSLLI-2016/)
+* [An introduction to probabilistic programming](https://arxiv.org/abs/1809.10756)
+
+---
+
+## 7. Miscellaneous
 ### Memorization in neural networks
 * [Blog post by BAIR](https://bair.berkeley.edu/blog/2019/08/13/memorization/)
 * [Identity Crisis: Paper](https://arxiv.org/abs/1902.04698)
-
-### Probabilistic Programming
-* [An introduction to probabilistic programming](https://arxiv.org/abs/1809.10756)
 
 ### Online Learning
 * [A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
@@ -82,7 +87,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## 7. Theory of neural networks
+## 8. Theory of neural networks
 ### Lottery tickets
 * [Lottery ticket hypothesis](http://news.mit.edu/2019/smarter-training-neural-networks-0506)
 * [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/abs/1905.01067)
@@ -95,7 +100,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## 8. Advanced Variational Inference 
+## 9. Advanced Variational Inference 
 * [Amortized Population Gibbs Samplers with Neural Sufficient Statistics](https://arxiv.org/abs/1911.01382)
 * [Evaluating Combinatorial Generalization in Variational Autoencoders](https://arxiv.org/abs/1911.04594)
 
