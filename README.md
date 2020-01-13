@@ -78,6 +78,8 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ### Transformers
 * [Attention is all you need](https://arxiv.org/abs/1706.03762)
+  * [A nice visual introduction](http://jalammar.github.io/illustrated-transformer/)
+  * [Annonated paper](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 * [Links to papers and code on various transformers by HuggingFace](https://github.com/huggingface/transformers)
 
 ### Others
