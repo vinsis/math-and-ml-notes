@@ -28,6 +28,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 ---
 
 ## 3. Contrastive Coding
+* [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 * [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
 * [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
