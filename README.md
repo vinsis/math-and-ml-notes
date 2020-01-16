@@ -87,6 +87,8 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [Zero-shot knowledge transfer](https://arxiv.org/abs/1905.09768)
 * [SpecNet](https://arxiv.org/abs/1905.10915)
 * [Deep Learning & Symbolic Mathematics](https://arxiv.org/abs/1912.01412)
+* [Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis](https://papers.nips.cc/paper/8347-learning-to-predict-layout-to-image-conditional-convolutions-for-semantic-image-synthesis)
+* [Deep Equilibrium Models](https://papers.nips.cc/paper/8358-deep-equilibrium-models)
 
 ---
 
