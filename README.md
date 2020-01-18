@@ -1,7 +1,7 @@
 Links to some important research papers or links. I plan to add notes as I go through each topic one by one.
 
 
-## 1. Information theory based (unsupervised) learning
+## ✔ 1. Information theory based (unsupervised) learning
 * [x] [Invariant Information Clustering](https://arxiv.org/abs/1807.06653)
    * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/iic.md)
 * [x] [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062)
