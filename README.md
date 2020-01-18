@@ -23,7 +23,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1812.02833)
 * [Isolating Sources of Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1802.04942)
 * [InfoGAN-CR: Disentangling Generative Adversarial Networks with Contrastive Regularizers](https://arxiv.org/abs/1906.06034)
-* [Disentangling by Factorising, PDF](https://www.cs.toronto.edu/~amnih/papers/disentangling_nips_ws.pdf)
+* [Disentangling by Factorising, pdf](https://www.cs.toronto.edu/~amnih/papers/disentangling_nips_ws.pdf)
 
 ---
 
@@ -111,3 +111,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [Evaluating Combinatorial Generalization in Variational Autoencoders](https://arxiv.org/abs/1911.04594)
 
 ---
+
+## 10. Causal Inference
+* [Elements of Causal Inference, pdf](https://www.dropbox.com/s/gkmsow492w3oolt/11283.pdf)
+* [Causal Inference: What If, pdf](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/10/ci_hernanrobins_1oct19.pdf)
