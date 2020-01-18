@@ -116,3 +116,4 @@ Links to some important research papers or links. I plan to add notes as I go th
 ## 10. Causal Inference
 * [Elements of Causal Inference, pdf](https://www.dropbox.com/s/gkmsow492w3oolt/11283.pdf)
 * [Causal Inference: What If, pdf](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/10/ci_hernanrobins_1oct19.pdf)
+* [Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution](https://arxiv.org/abs/1801.04016)
