@@ -36,7 +36,7 @@ The Keras implementation is lifted straight from [here](https://github.com/david
 
 #### f<sub>θ</sub> (image patch x<sub>t</sub> → encoded vector z<sub>t</sub>)
 It is a [simple CNN](https://github.com/davidtellez/contrastive-predictive-coding/blob/master/train_model.py#L14-L36):
-```
+```python
 def network_encoder(x, code_size):
 
     ''' Define the network mapping images to embeddings '''
@@ -64,7 +64,7 @@ def network_encoder(x, code_size):
 
 #### g<sub>ar</sub>
 It is a [simple GRU](https://github.com/davidtellez/contrastive-predictive-coding/blob/master/train_model.py#L39-L47). I have modified the docstring to make it clearer:
-```
+```python
 def network_autoregressive(x):
 
     ''' x is a iterable of vectors z1, z2, ... zt '''
@@ -79,7 +79,7 @@ def network_autoregressive(x):
 #### Implementation of W<sub>k</sub> transformations
 Note that `k` is the number of time steps ahead in future the encoded vectors at which are predicted. We need to define a `Dense` (or `Linear` if you are coming from PyTorch) layer for each value to k. This is implemented [here](https://github.com/davidtellez/contrastive-predictive-coding/blob/master/train_model.py#L50-L63)
 
-```
+```python
 def network_prediction(context, code_size, predict_terms):
 
     ''' `predict_terms` is only used to determine the number of time steps ahead of time. '''
@@ -99,7 +99,7 @@ def network_prediction(context, code_size, predict_terms):
 #### Taking the sigmoid of dot product
 [Implementation here](https://github.com/davidtellez/contrastive-predictive-coding/blob/master/train_model.py#L66-L86):
 
-```
+```python
 class CPCLayer(keras.layers.Layer):
 
     ''' Computes dot product between true and predicted embedding vectors '''
