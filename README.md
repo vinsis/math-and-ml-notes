@@ -73,11 +73,8 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ### Normalizing Flows
 * [Detailed hands-on introduction](https://github.com/acids-ircam/pytorch_flows)
+* [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762)
 * [PyTorch implementations of density estimation algorithms](https://github.com/kamenbliznashki/normalizing_flows)
-
-### Geometric deep learning
-* [Good list of resources](http://geometricdeeplearning.com/)
-* [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/abs/1506.05163)
 
 ### Transformers
 * [Attention is all you need](https://arxiv.org/abs/1706.03762)
