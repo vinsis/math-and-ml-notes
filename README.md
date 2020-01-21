@@ -47,7 +47,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 ---
 
 ## 5. NNs and ODEs
-* MIT 18.335: Introduction to Numerical Methods [Github](https://github.com/mitmath/18335), ][OCW](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)
+* MIT 18.335: Introduction to Numerical Methods [Github](https://github.com/mitmath/18335), [OCW](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)
 * [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
 * [Augmented Neural ODEs](https://arxiv.org/abs/1904.01681)
 * [Invertible ResNets](https://arxiv.org/pdf/1811.00995.pdf)
