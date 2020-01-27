@@ -56,7 +56,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ## 6. Probabilistic Programming
 * [x] [Probabilistic models of cognition](http://probmods.org/)
-  * [Notes (WIP)](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/probmods/)
+  * [Notes](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/probmods/)
 * [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org)
 * [Composition in Probabilistic Language Understanding](http://gscontras.github.io/ESSLLI-2016/)
 * (Optional) [An introduction to probabilistic programming](https://arxiv.org/abs/1809.10756)
