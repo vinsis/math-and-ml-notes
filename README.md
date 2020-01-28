@@ -59,7 +59,6 @@ Links to some important research papers or links. I plan to add notes as I go th
   * [Notes](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/probmods/)
 * [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org)
 * [Composition in Probabilistic Language Understanding](http://gscontras.github.io/ESSLLI-2016/)
-* (Optional) [An introduction to probabilistic programming](https://arxiv.org/abs/1809.10756)
 
 ---
 
@@ -70,6 +69,9 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ### Online Learning
 * [A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
+
+### Graph Neural Networks
+* [A Gentle Introduction to Deep Learning for Graphs, pdf](https://arxiv.org/pdf/1912.12693.pdf)
 
 ### Normalizing Flows
 * [Detailed hands-on introduction](https://github.com/acids-ircam/pytorch_flows)
