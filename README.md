@@ -19,6 +19,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [x] [Quick overview by Google](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
   *  [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/unsupervised_disentanglement.md)
 * [β-VAE, pdf](https://openreview.net/pdf?id=Sy2fzU9gl)
+  *  [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/betavae.md)
 * [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599)
 * [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1812.02833)
 * [Isolating Sources of Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1802.04942)
