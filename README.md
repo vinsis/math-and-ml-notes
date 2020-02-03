@@ -81,10 +81,10 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [PyTorch implementations of density estimation algorithms](https://github.com/kamenbliznashki/normalizing_flows)
 
 ### Transformers
-* [Attention is all you need](https://arxiv.org/abs/1706.03762)
+* [x] [Attention is all you need](https://arxiv.org/abs/1706.03762)
   * [x] [A nice visual introduction](http://jalammar.github.io/illustrated-transformer/)
-  * [Annonated paper](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
-  * [Python notebook with illustrations and working code (WIP)](https://github.com/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb)
+  * [x] [Annonated paper](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+  * [Python notebook with illustrations and working code](https://github.com/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb)
 * [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
 
 ### Others
