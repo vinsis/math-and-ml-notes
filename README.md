@@ -58,7 +58,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ## 6. Probabilistic Programming
 * [x] [Probabilistic models of cognition](http://probmods.org/)
-  * [Notes](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/probmods/)
+  * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/probmods/)
 * [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org)
 * [Composition in Probabilistic Language Understanding](http://gscontras.github.io/ESSLLI-2016/)
 
@@ -84,7 +84,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [x] [Attention is all you need](https://arxiv.org/abs/1706.03762)
   * [x] [A nice visual introduction](http://jalammar.github.io/illustrated-transformer/)
   * [x] [Annonated paper](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
-  * [Python notebook with illustrations and working code](https://github.com/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb)
+  * [__Python notebook with illustrations and working code__](https://github.com/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb)
 * [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
 
 ### Others
