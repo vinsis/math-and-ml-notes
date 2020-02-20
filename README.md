@@ -12,6 +12,8 @@ Links to some important research papers or links. I plan to add notes as I go th
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/amdim.md)
 * [x] How Google decoupled MI maximization and representation learning: [On Mutual Information Maximization for Representation Learning](https://arxiv.org/abs/1907.13625)
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/on_mi_maximization.md)
+### New from NIPS 2019
+* [ ] [Putting an end to end-to-end: Gradient-Isolated Learning of Representations](http://papers.nips.cc/paper/8568-putting-an-end-to-end-to-end-gradient-isolated-learning-of-representations.pdf)
 
 ---
 
