@@ -35,7 +35,8 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [x] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 * [x] [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
   *  [__Combined notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/contrastive_predictive_coding.md)
-* [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
+* [x] [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
+  * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/cmc_notes.md)
 * [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
 * Google disspelling a lot of misconceptions about disentangled representations: [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
 
