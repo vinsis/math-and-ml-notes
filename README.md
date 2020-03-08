@@ -52,18 +52,19 @@ Links to some important research papers or links. I plan to add notes as I go th
 ---
 
 ## 5. NNs and ODEs
-* [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
-* [Augmented Neural ODEs](https://arxiv.org/abs/1904.01681)
-* [Invertible ResNets](https://arxiv.org/pdf/1811.00995.pdf)
-* [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385)
+* [ ] [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)
+  * [ ] [Adjoint tutorial](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf)
+* [ ] [Augmented Neural ODEs](https://arxiv.org/abs/1904.01681)
+* [ ] [Invertible ResNets](https://arxiv.org/pdf/1811.00995.pdf)
+* [ ] [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385)
 
 ---
 
 ## 6. Probabilistic Programming
 * [x] [Probabilistic models of cognition](http://probmods.org/)
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/probmods/)
-* [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org)
-* [Composition in Probabilistic Language Understanding](http://gscontras.github.io/ESSLLI-2016/)
+* [ ] [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org)
+* [ ] [Composition in Probabilistic Language Understanding](http://gscontras.github.io/ESSLLI-2016/)
 
 ---
 
@@ -76,7 +77,7 @@ Links to some important research papers or links. I plan to add notes as I go th
 * [A Modern Introduction to Online Learning](https://arxiv.org/abs/1912.13213)
 
 ### Graph Neural Networks
-* [A Gentle Introduction to Deep Learning for Graphs, pdf](https://arxiv.org/pdf/1912.12693.pdf)
+* [ ] [A Gentle Introduction to Deep Learning for Graphs, pdf](https://arxiv.org/pdf/1912.12693.pdf)
 
 ### Normalizing Flows
 * [Detailed hands-on introduction](https://github.com/acids-ircam/pytorch_flows)
