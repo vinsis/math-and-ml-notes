@@ -15,18 +15,21 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## 2. Disentangled representations
+## ✔ 2. Disentangled representations
 * [x] [Quick overview by Google](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
   *  [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/unsupervised_disentanglement.md)
 * [x] [β-VAE, pdf](https://openreview.net/pdf?id=Sy2fzU9gl)
   *  [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/betavae.md)
 * [x] [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599)
   *  [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/understanding_betavae.md)
+
+```
+Decided not to delve deeper into this topic. It is not mature yet.
 * [Disentangling Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1812.02833)
 * [Isolating Sources of Disentanglement in Variational Autoencoders](https://arxiv.org/abs/1802.04942)
 * [InfoGAN-CR: Disentangling Generative Adversarial Networks with Contrastive Regularizers](https://arxiv.org/abs/1906.06034)
 * [Disentangling by Factorising, pdf](https://www.cs.toronto.edu/~amnih/papers/disentangling_nips_ws.pdf)
-
+```
 ---
 
 ## ✔ 3. Contrastive Coding
