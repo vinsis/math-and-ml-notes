@@ -31,15 +31,15 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## 3. Contrastive Coding
+## ✔ 3. Contrastive Coding
 * [x] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 * [x] [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
   *  [__Combined notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/contrastive_predictive_coding.md)
 * [x] [Contrastive Multiview Coding](https://arxiv.org/abs/1906.05849)
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/cmc_notes.md)
-* [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
-  * [__Notes (in progress)__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/moco.md)
-* ~~Google disspelling a lot of misconceptions about disentangled representations~~: [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
+* [x] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+  * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/moco.md)
+* ~~Google dispelling a lot of misconceptions about disentangled representations~~: [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
   * I have become sort of disillusioned with disentangled representations. I feel they are not at a mature stage yet. So I have decided not to spend time on this paper.
 
 ---
