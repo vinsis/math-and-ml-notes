@@ -15,6 +15,11 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
+## 1.1 Self-supervised learning
+* [ ] Emerging Properties in Self-Supervised Vision Transformers [PDF](https://arxiv.org/pdf/2104.14294.pdf) | [Official Code](https://github.com/facebookresearch/dino)
+
+---
+
 ## ✔ 2. Disentangled representations
 * [x] [Quick overview by Google](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
   *  [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/unsupervised_disentanglement.md)
@@ -83,9 +88,7 @@ Decided not to delve deeper into this topic. It is not mature yet.
 * [ ] [A Gentle Introduction to Deep Learning for Graphs, pdf](https://arxiv.org/pdf/1912.12693.pdf)
 
 ### Normalizing Flows
-* [Detailed hands-on introduction](https://github.com/acids-ircam/pytorch_flows)
-* [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762)
-* [PyTorch implementations of density estimation algorithms](https://github.com/kamenbliznashki/normalizing_flows)
+* [x] [Tutorial and implementations for UCB DUL course](https://github.com/TinyVolt/normalizing-flows)
 
 ### Transformers
 * [x] [Attention is all you need](https://arxiv.org/abs/1706.03762)
@@ -98,7 +101,6 @@ Decided not to delve deeper into this topic. It is not mature yet.
 * [Zero-shot knowledge transfer](https://arxiv.org/abs/1905.09768)
 * [SpecNet](https://arxiv.org/abs/1905.10915)
 * [Deep Learning & Symbolic Mathematics](https://arxiv.org/abs/1912.01412)
-* [Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis](https://papers.nips.cc/paper/8347-learning-to-predict-layout-to-image-conditional-convolutions-for-semantic-image-synthesis)
 * [Deep Equilibrium Models](https://papers.nips.cc/paper/8358-deep-equilibrium-models)
 
 ---
