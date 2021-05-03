@@ -37,7 +37,7 @@ Decided not to delve deeper into this topic. It is not mature yet.
 ```
 ---
 
-## ✔ 3. Contrastive Coding
+## ✔ 3. Self Supervised Learning
 * [x] [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)
 * [x] [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
   *  [__Combined notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/contrastive_predictive_coding.md)
@@ -49,6 +49,9 @@ Decided not to delve deeper into this topic. It is not mature yet.
   * I have become sort of disillusioned with disentangled representations. I feel they are not at a mature stage yet. So I have decided not to spend time on this paper.
 * [x] [SimCLR](https://arxiv.org/abs/2002.05709)
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/SimCLR.md)
+* [x] [MoCo v2: Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297)
+  * The shortest paper I have seen. The authors modified MoCo based on some ideas borrowed from SimCLR.
+  * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/moco_v2.md)
 
 ---
 
