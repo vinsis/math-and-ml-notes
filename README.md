@@ -47,6 +47,8 @@ Decided not to delve deeper into this topic. It is not mature yet.
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/moco.md)
 * ~~Google dispelling a lot of misconceptions about disentangled representations~~: [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
   * I have become sort of disillusioned with disentangled representations. I feel they are not at a mature stage yet. So I have decided not to spend time on this paper.
+* [x] [SimCLR](https://arxiv.org/abs/2002.05709)
+  * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/SimCLR.md)
 
 ---
 
