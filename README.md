@@ -15,11 +15,6 @@ Links to some important research papers or links. I plan to add notes as I go th
 
 ---
 
-## 1.1 Self-supervised learning
-* [ ] Emerging Properties in Self-Supervised Vision Transformers [PDF](https://arxiv.org/pdf/2104.14294.pdf) | [Official Code](https://github.com/facebookresearch/dino)
-
----
-
 ## ✔ 2. Disentangled representations
 * [x] [Quick overview by Google](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
   *  [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/unsupervised_disentanglement.md)
@@ -45,13 +40,12 @@ Decided not to delve deeper into this topic. It is not mature yet.
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/cmc_notes.md)
 * [x] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/moco.md)
-* ~~Google dispelling a lot of misconceptions about disentangled representations~~: [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
-  * I have become sort of disillusioned with disentangled representations. I feel they are not at a mature stage yet. So I have decided not to spend time on this paper.
 * [x] [SimCLR](https://arxiv.org/abs/2002.05709)
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/SimCLR.md)
 * [x] [MoCo v2: Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297)
   * The shortest paper I have seen. The authors modified MoCo based on some ideas borrowed from SimCLR.
   * [__Notes__](https://github.com/vinsis/math-and-ml-notes/blob/master/notes/moco_v2.md)
+* [ ] Emerging Properties in Self-Supervised Vision Transformers [PDF](https://arxiv.org/pdf/2104.14294.pdf) | [Official Code](https://github.com/facebookresearch/dino)
 
 ---
 
