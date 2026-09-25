@@ -128,3 +128,8 @@ Decided not to delve deeper into this topic. It is not mature yet.
 * [Elements of Causal Inference, pdf](https://www.dropbox.com/s/gkmsow492w3oolt/11283.pdf)
 * [Causal Inference: What If, pdf](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/10/ci_hernanrobins_1oct19.pdf)
 * [Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution](https://arxiv.org/abs/1801.04016)
+
+---
+
+<script src="https://www.tinyvolt.com/embed.js"></script>
+<tinyvolt-article article="f36d1096-d8a9-4cee-8cbd-f941157bde0a" site="https://vinsis.github.io"></tinyvolt-article>
