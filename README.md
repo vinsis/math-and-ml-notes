@@ -137,4 +137,4 @@ Testing an embedding:
 <style>
   #tinyvolt-f36d1096-d8a9-4cee-8cbd-f941157bde0a { width: 62.9%; height: 640px; }
 </style>
-<tinyvolt-article id="tinyvolt-f36d1096-d8a9-4cee-8cbd-f941157bde0a" article="f36d1096-d8a9-4cee-8cbd-f941157bde0a" site="http://localhost:5555"></tinyvolt-article>
+<tinyvolt-article id="tinyvolt-f36d1096-d8a9-4cee-8cbd-f941157bde0a" article="f36d1096-d8a9-4cee-8cbd-f941157bde0a" site="https://vinsis.github.io/"></tinyvolt-article>
